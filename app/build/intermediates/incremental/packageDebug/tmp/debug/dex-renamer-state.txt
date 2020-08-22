@@ -1,0 +1,4 @@
+#Sat Aug 22 12:23:29 BRT 2020
+base.0=C\:\\Users\\laura\\OneDrive\\Documents\\B2WDigital_Challenge\\B2WDigital_Challenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

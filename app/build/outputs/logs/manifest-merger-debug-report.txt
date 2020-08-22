@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c4ea8a2100700cd2c15d7ec48235f559\material-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bfda9566de92fe85239f9241a4dd6e79\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\9527447ada89bca3fc011f21fafb7e3f\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84689607aa1a9ecba3f35b92fe1b81c2\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed859e1e5cbfad2afb3eb07e05f9e455\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\fd320a23754f58f4d33eebefe1693eea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7175ddf72a45e00aad2f9364fdce5237\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c878010cb5da47c91061ae6239944382\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0d267881d011d0bd2ee2f6640237cb74\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed9f6833715fa9acfd789ed637743657\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c165dacb5d5da2a5ff85f43cfe726ae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bec2969530b4708f49a0f1ba76e110ea\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\45b63607545f74fb0a1aa2fc78dac26b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\68ebfb1af47f8638cd3e5543e0d51ce2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a2c12c511f1a03aef5bd36e135f8b3ba\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\39d47c1d2cb0d62e30e1b5161c77f837\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\653300158aaa252eaffaf30d95012441\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7cc8859ccb489a6ad51291fff3bf709c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\6180cad058f3d8bc57303e1a1ec2db03\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ab5bb915ae8372d9d007870cd6f9c9c9\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84c3d0d65677f5ed071478ef77d06ec9\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\04bf590110f8c8ac9af3803efedfa899\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\1ed49fcbded0952dd3c4c5197f8b9c30\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c004f75deef4dd4f491beff8f4011cd3\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\006d925fa9c7068fdb7e858182b680d5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a9df9dcb308a2c08b4604f1c6942c2c5\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0df4072b86c61ac76c704a6fdab7a3b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\25e49ef7f99f1b34274927d5a62539b8\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\67837bb92a7a564f869a7d69d978a6a1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0c6c8df2a8be3e97144b38c11b0143e4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\e95581ecec83323d3e5652c098afe331\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\62dc06c500cd6f3606d07c3dd8d749f2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c4ea8a2100700cd2c15d7ec48235f559\material-1.3.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c4ea8a2100700cd2c15d7ec48235f559\material-1.3.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\9527447ada89bca3fc011f21fafb7e3f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\9527447ada89bca3fc011f21fafb7e3f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84c3d0d65677f5ed071478ef77d06ec9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84c3d0d65677f5ed071478ef77d06ec9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:9:9-51
+	android:icon
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.pokemon.View.SplashScreenActivity
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:12:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.pokemon.View.MainActivity
+ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml:19:19-52
+uses-sdk
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c4ea8a2100700cd2c15d7ec48235f559\material-1.3.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c4ea8a2100700cd2c15d7ec48235f559\material-1.3.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bfda9566de92fe85239f9241a4dd6e79\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bfda9566de92fe85239f9241a4dd6e79\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\9527447ada89bca3fc011f21fafb7e3f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\9527447ada89bca3fc011f21fafb7e3f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84689607aa1a9ecba3f35b92fe1b81c2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84689607aa1a9ecba3f35b92fe1b81c2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed859e1e5cbfad2afb3eb07e05f9e455\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed859e1e5cbfad2afb3eb07e05f9e455\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\fd320a23754f58f4d33eebefe1693eea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\fd320a23754f58f4d33eebefe1693eea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7175ddf72a45e00aad2f9364fdce5237\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7175ddf72a45e00aad2f9364fdce5237\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c878010cb5da47c91061ae6239944382\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c878010cb5da47c91061ae6239944382\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0d267881d011d0bd2ee2f6640237cb74\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0d267881d011d0bd2ee2f6640237cb74\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed9f6833715fa9acfd789ed637743657\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ed9f6833715fa9acfd789ed637743657\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c165dacb5d5da2a5ff85f43cfe726ae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c165dacb5d5da2a5ff85f43cfe726ae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bec2969530b4708f49a0f1ba76e110ea\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\bec2969530b4708f49a0f1ba76e110ea\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\45b63607545f74fb0a1aa2fc78dac26b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\45b63607545f74fb0a1aa2fc78dac26b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\68ebfb1af47f8638cd3e5543e0d51ce2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\68ebfb1af47f8638cd3e5543e0d51ce2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a2c12c511f1a03aef5bd36e135f8b3ba\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a2c12c511f1a03aef5bd36e135f8b3ba\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\39d47c1d2cb0d62e30e1b5161c77f837\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\39d47c1d2cb0d62e30e1b5161c77f837\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\653300158aaa252eaffaf30d95012441\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\653300158aaa252eaffaf30d95012441\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7cc8859ccb489a6ad51291fff3bf709c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\7cc8859ccb489a6ad51291fff3bf709c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\477d9333e9041addd022de84ecb24295\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\6180cad058f3d8bc57303e1a1ec2db03\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\6180cad058f3d8bc57303e1a1ec2db03\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ab5bb915ae8372d9d007870cd6f9c9c9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\ab5bb915ae8372d9d007870cd6f9c9c9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84c3d0d65677f5ed071478ef77d06ec9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\84c3d0d65677f5ed071478ef77d06ec9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\04bf590110f8c8ac9af3803efedfa899\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\04bf590110f8c8ac9af3803efedfa899\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\1ed49fcbded0952dd3c4c5197f8b9c30\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\1ed49fcbded0952dd3c4c5197f8b9c30\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c004f75deef4dd4f491beff8f4011cd3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\c004f75deef4dd4f491beff8f4011cd3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\006d925fa9c7068fdb7e858182b680d5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\006d925fa9c7068fdb7e858182b680d5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a9df9dcb308a2c08b4604f1c6942c2c5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\a9df9dcb308a2c08b4604f1c6942c2c5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0df4072b86c61ac76c704a6fdab7a3b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0df4072b86c61ac76c704a6fdab7a3b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\25e49ef7f99f1b34274927d5a62539b8\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\25e49ef7f99f1b34274927d5a62539b8\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\67837bb92a7a564f869a7d69d978a6a1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\67837bb92a7a564f869a7d69d978a6a1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0c6c8df2a8be3e97144b38c11b0143e4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\0c6c8df2a8be3e97144b38c11b0143e4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\e95581ecec83323d3e5652c098afe331\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\e95581ecec83323d3e5652c098afe331\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\62dc06c500cd6f3606d07c3dd8d749f2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\62dc06c500cd6f3606d07c3dd8d749f2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laura\OneDrive\Documents\B2WDigital_Challenge\B2WDigital_Challenge\app\src\main\AndroidManifest.xml
